@@ -18,12 +18,13 @@ This repository contains a Jupyter Notebook for forecasting Polyvinyl Chloride (
 - **Model Diagnostics:** Includes residual analysis, confidence interval diagnostics, and coverage statistics.
 
 # PVC Price Feature Selection and Correlation Analysis
+## PVC_Feature_select
 
-## Overview
+### Overview
 
 This repository contains a Jupyter Notebook for feature selection and correlation analysis to support PVC price forecasting. The notebook applies multiple statistical and machine learning methods to identify the most impactful predictors from a raw dataset, laying the foundation for robust time-series modeling.
 
-## Key Features
+### Key Features
 
 - **Correlation Analysis:**  
   Calculates the statistical relationship between each feature and the target variable to identify strong linear associations.
